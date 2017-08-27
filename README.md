@@ -1,4 +1,4 @@
-# Plan your meals webapp
+# Webapp to plan your meals
 
 A web-app to plan your meals for the week
 
