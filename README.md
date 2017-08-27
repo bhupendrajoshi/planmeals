@@ -12,6 +12,10 @@ Install,
  - npm
  - node
  - yarn (`npm install -g yarn`)
+ - Register with Edamam and get API key and APP ID, 
+    - create a local file `.env` 
+    - Add API ID to `REACT_APP_API_ID` 
+    - Add API KEY to `REACT_APP_API_KEY` 
 
  ## Starting app
  - install dependencies (`yarn` or `npm install`)
